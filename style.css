@@ -29,22 +29,3 @@
     background-color: #F2F2F2;
     background-repeat: repeat;
   }
-  
-  .container {
-    display: flex;
-    margin: 0 auto;
-    width: 1200px;
-    flex-direction: column;
-    box-shadow: 0 0 20px 0 rgb(0 0 0 / 40%);
-    background-color: #ffffff;
-    list-style-type: none;
-    min-height: 100%;
-  }
-  
-  .main-container-main-index {
-    flex-grow: 1;
-  }
-  
-  .main-container-main-inner {
-    flex-grow: 1;
-  }
