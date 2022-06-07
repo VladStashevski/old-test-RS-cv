@@ -11,8 +11,11 @@ Saint Petersburg
 **GitHub**: https://github.com/VladStashevski
 
 ## About Me
-I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
-I am reliable and dependable and often seek new responsibilities within a wide range of employment areas.
+Successfully completed the workshop
+and defended the graduation project JavaScript.Professional Development
+of Web Interfaces HTML academy.
+I am fond of and study everything related to IT.
+Looking for a junior position or full time internship.
 
 ## Skills
 
