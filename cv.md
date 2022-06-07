@@ -1,21 +1,24 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+# Vladislav Lushnikov (@VladStashevski)
+## Junior Frontend Developer
 
-  <title>Vladislav Lushnikov | rsschool-cv</title>
-  <>
-</head>
-<body>
+### Contact information:
 
-<header class="header">
-  <h1 class="header__logo logo">Cinemaddict</h1>
-</header>
-<main class="main">
-</main>
-<footer class="footer">
-</footer>
-</body>
-</html>
+**Location**: 
+Saint Petersburg
+**Phone:** +7(904)885-11-91
+**E-mail**: ankavoloshina@gmail.com
+**Telegram**: https://t.me/Vlad_Stashevski
+**GitHub**: https://github.com/VladStashevski
+
+## About Me
+I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
+I am reliable and dependable and often seek new responsibilities within a wide range of employment areas.
+
+## Skills
+
+HTML
+CSS
+JavaScript
+Git
+
+## Code Example
