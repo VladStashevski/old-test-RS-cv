@@ -6,9 +6,9 @@
 - **Location**: 
 Saint Petersburg
 - **Phone:** +7(904)885-11-91
-- **E-mail**: ankavoloshina@gmail.com
-- **Telegram**: https://t.me/Vlad_Stashevski
-- **GitHub**: https://github.com/VladStashevski
+- **E-mail**: adrenaline2142@gmail.com
+- **Telegram**: [Vlad_Stashevski](https://t.me/Vlad_Stashevski)
+- **GitHub**: [@VladStashevski](https://github.com/VladStashevski)
 
 ## About Me
 Successfully completed the workshop
@@ -19,12 +19,12 @@ Looking for a junior position or full time internship.
 
 ## Skills
 
-HTML
-CSS
-JavaScript
-React
-Git, GitHub
-Adobe Photoshop
+    HTML
+    CSS
+    JavaScript
+    React
+    Git, GitHub
+    Adobe Photoshop
 
 ## Code Example
 
@@ -47,11 +47,14 @@ const getWordEnd = (number, form1, form2, form3) => {
 
 ## Education
 
-University: 
+**University:** 
 - Saint-Petersburg University of Humanities and Social Sciences, bachelor lawyer
 - Yugra State University, magistracy lawyer
-Courses: HTML Academy
+
+**Courses:** 
+- HTML Academy
 
 ## Languages:
-English - Intermediate
-Russian - Native
+**English** - Intermediate
+
+**Russian** - Native
