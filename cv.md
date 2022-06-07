@@ -22,6 +22,36 @@ Looking for a junior position or full time internship.
 HTML
 CSS
 JavaScript
-Git
+React
+Git, GitHub
+Adobe Photoshop
 
 ## Code Example
+
+
+const getWordEnd = (number, form1, form2, form3) => {
+  number = Math.abs(number) % 100;
+  const number1 = number % 10;
+  if (number > 10 && number < 20) {
+    return form3;
+  }
+  if (number1 > 1 && number1 < 5) {
+    return form2;
+  }
+  if (number1 === 1) {
+    return form1;
+  }
+  return form3;
+};
+
+
+## Education
+
+University: 
+- Saint-Petersburg University of Humanities and Social Sciences, bachelor lawyer
+- Yugra State University, magistracy lawyer
+Courses: HTML Academy
+
+## Languages:
+English - Intermediate
+Russian - Native
