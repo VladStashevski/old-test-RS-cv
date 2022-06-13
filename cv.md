@@ -1,0 +1,60 @@
+# Vladislav Lushnikov (@VladStashevski)
+## Junior Frontend Developer
+
+## Contact information:
+
+- **Location**: Saint Petersburg
+- **Phone:** +7(904)885-11-91
+- **E-mail**: adrenaline2142@gmail.com
+- **Telegram**: [Vlad_Stashevski](https://t.me/Vlad_Stashevski)
+- **GitHub**: [@VladStashevski](https://github.com/VladStashevski)
+
+## About Me
+Successfully completed the workshop
+and defended the graduation project JavaScript.Professional Development
+of Web Interfaces HTML academy.
+I am fond of and study everything related to IT.
+Looking for a junior position or full time internship.
+
+## Skills
+
+    HTML
+    CSS
+    JavaScript
+    React
+    Git, GitHub
+    Adobe Photoshop
+
+## Code Example
+
+```
+const getWordEnd = (number, form1, form2, form3) => {
+  number = Math.abs(number) % 100;
+  const number1 = number % 10;
+  if (number > 10 && number < 20) {
+    return form3;
+  }
+  if (number1 > 1 && number1 < 5) {
+    return form2;
+  }
+  if (number1 === 1) {
+    return form1;
+  }
+  return form3;
+};
+
+```
+
+## Education
+
+**University:** 
+- Saint-Petersburg University of Humanities and Social Sciences, bachelor lawyer
+- Yugra State University, magistracy lawyer
+
+**Courses:** 
+- HTML Academy CSS, HTML, JavaScript
+
+## Languages:
+**English** - Intermediate
+
+**Russian** - Native
