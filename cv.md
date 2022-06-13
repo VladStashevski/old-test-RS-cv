@@ -3,8 +3,7 @@
 
 ## Contact information:
 
-- **Location**: 
-Saint Petersburg
+- **Location**: Saint Petersburg
 - **Phone:** +7(904)885-11-91
 - **E-mail**: adrenaline2142@gmail.com
 - **Telegram**: [Vlad_Stashevski](https://t.me/Vlad_Stashevski)
@@ -43,6 +42,7 @@ const getWordEnd = (number, form1, form2, form3) => {
   }
   return form3;
 };
+
 ```
 
 ## Education
@@ -52,7 +52,7 @@ const getWordEnd = (number, form1, form2, form3) => {
 - Yugra State University, magistracy lawyer
 
 **Courses:** 
-- HTML Academy
+- HTML Academy CSS, HTML, JavaScript
 
 ## Languages:
 **English** - Intermediate
