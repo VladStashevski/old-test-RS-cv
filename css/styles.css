@@ -26,9 +26,9 @@ body {
   font-size: 22px;
   line-height: 36px;
   color: rgba(51, 51, 51, 100%);
-  background-color: #b3d2ca;
+  background-color: #EAE7DC;
   background-repeat: repeat;
-  color: #116466;
+  color: white;
 }
 
 .container {
@@ -37,14 +37,14 @@ body {
   width: 1200px;
   flex-direction: column;
   box-shadow: 0 0 20px 0 rgb(0 0 0 / 40%);
-  background-color:  #DEF2F1;
+  background-color:  #D8C3A5;
   list-style-type: none;
   min-height: 100%;
 }
 
 .page-header {
   color: #ffffff;
-  background-color: #116466;
+  background-color: #8E8D8A;
 }
 
 .navigation {
@@ -59,7 +59,7 @@ body {
   font-weight: 700;
   text-align: center;
   color: rgba(0, 0, 0, 100%);
-  background-color: #116466;
+  background-color: #8E8D8A;
   min-width: 309px;
   margin: 0 auto;
 }
@@ -91,7 +91,7 @@ body {
   font-weight: 700;
   text-align: center;
   color: #ffffff;
-  background-color: #116466;
+  background-color: #8E8D8A;
   text-decoration: none;
   text-transform: uppercase;
 }
@@ -111,7 +111,7 @@ body {
 }
 
 .welcome-image {
-  border: 7px solid #116466;
+  border: 7px solid #ffffff;
   border-radius: 100%;
 }
 
@@ -130,22 +130,24 @@ body {
 .about-me {
   display: flex;
   flex-wrap: wrap;
-  width: 1056px;
   justify-content: space-between;
   margin: 0 auto;
+  padding-left: 53px;
+  padding-right: 53px;
   padding-top: 20px;
   padding-bottom: 63px;
-  border-bottom: 3px solid #116466;
-  border-top: 3px solid #116466;
+  background-color: #8E8D8A;
 }
 
 .contact {
+  padding-left: 10px;
+  padding-right: 10px;
   list-style-type: none;
 }
 
 .location {
   text-decoration: none;
-  color: #116466;
+  color: #ffffff;
 }
 
 .location:hover {
@@ -160,7 +162,7 @@ body {
 
 .contacts-phone {
   text-decoration: none;
-  color: #116466;
+  color: #ffffff;
 }
 
 .contacts-phone:hover {
@@ -175,7 +177,7 @@ body {
 
 .email {
   text-decoration: none;
-  color: #116466;
+  color: #ffffff;
 }
 
 .email:hover {
@@ -190,7 +192,7 @@ body {
 
 .telegram {
   text-decoration: none;
-  color: #116466;
+  color: #ffffff;
 }
 
 .telegram:hover {
@@ -205,7 +207,7 @@ body {
 
 .github {
   text-decoration: none;
-  color: #116466;
+  color: #ffffff;
 }
 
 .github:hover {
@@ -250,7 +252,7 @@ body {
   display: flex;
   color: #659DBD;
   background-color: #116466;
-  border-radius: 10px;
+  border-radius: 5px;
 }
 
 .education {
@@ -305,8 +307,8 @@ body {
   padding-bottom: 12px;
   font-size: 14px;
   font-weight: 700;
-  color: #116466;
-  background-color: #116466;
+  color: #8E8D8A;
+  background-color: #8E8D8A;
   text-align: center;
   text-decoration: none;
 }
